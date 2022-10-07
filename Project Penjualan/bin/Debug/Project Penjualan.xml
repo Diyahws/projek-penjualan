@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project Penjualan
+</name>
+</assembly>
+<members>
+<member name="T:Project_Penjualan.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.icons8_user_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.icons8_user_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.kindpng_34621">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.kindpng_346211">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.kindpng_346212">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.kisspng_computer_icons_clip_art_login_button_5ac8e1453e5f33_3317763515231143092555">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.kisspng_computer_icons_login_android_download_vector_login_5afdc0b74d33f9_9396735515265793833162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_Penjualan.My.Resources.Resources.transparent_computer_science_icon_login_icon_password_icon_607656678f2531_6999316716183681035863">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
